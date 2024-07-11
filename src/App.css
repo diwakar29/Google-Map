@@ -1,0 +1,10 @@
+.class{
+    text-align: center;
+    background-color: lightblue;
+    margin-inline: 590px;
+    padding: 4px;
+    border-radius: 25px;
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: saddlebrown;
+}
